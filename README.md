@@ -1,2 +1,2 @@
-# github-practice-repo
-#the most challenging concept that I still struggle with is how to use R. 
+# github practice repository- ECOL3960 2-12-26
+#the most challenging concept I am still learning is how to operate github. 
